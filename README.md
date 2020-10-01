@@ -47,7 +47,7 @@ def cartProd(A, B):
 a,b = [0,1], [1,2]
 #expected output = [[0,1], [0,2], [1,1], [1,2]]
 #explanation - [i,k] -> i is the element of set A, k is the element of set B; and k is from 0th to the last index for each i. 
-
+```
 ```c++
 Input[5]: cartProd([0,1],[1,2])
 Output[5]: [[0,1], [0,1], [1,1], [1,2]]
