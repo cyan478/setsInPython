@@ -1,2 +1,4 @@
 # setsInPython
-Work 11: Set your pythons to list comprehension
+Work 11: Implement the list comprehension to your python code. 
+
+For example
