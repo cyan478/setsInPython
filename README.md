@@ -41,7 +41,7 @@ Output[4]: [0, 4, 5]
 Example 5: A nested list of the elements of two sets.
 ```python
 a,b = [0,1], [1,2]
-```python
+
 def cartProd(A, B):
     return [[a,b] for a in A for b in B]
 a,b = [0,1], [1,2]
